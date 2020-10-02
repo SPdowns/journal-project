@@ -5,6 +5,9 @@
 
 ### by Sean Downs
 
+# 2020-10-02 NOTE
+A lot of learning was had today. I kept a log at https://github.com/SPdowns/CaseoftheFridays-Part2 but wasn't sure if I should post 2 links in the submission page on Epicenter.
+
 ## Description
 
 This application is intended to *not only* help you become a better journaler, but it is also intended to help you practice mindfullness in a positive, creative space while cultivating a habit ritual that can carry into every part of a developing workflow.
