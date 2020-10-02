@@ -9,6 +9,16 @@
 
 This application is intended to *not only* help you become a better journaler, but it is also intended to help you practice mindfullness in a positive, creative space while cultivating a habit ritual that can carry into every part of a developing workflow.
 
+### Specification
+
+These are a prelim list of large goals I can break down further once I read and watch more material.
+
+Goal 1 - Create a a simple design site that has a splash page, a journal list page, a journal entry page, and a journal entry display page.
+
+![SimplePage](img/simple.png)
+
+Goal 2 - Implement the WordPress platform and MySQL db. This is such a summary of what needs to be done I just don't have the specifics of what comes first.
+
 ### Setup
 
 This may be viewed at (I'm going to buy a cheap domain and host it on gh-pages and I think I'll explaine the MAMP and cloning process when I have abetter understanding of how to wuickly accomplish that)
