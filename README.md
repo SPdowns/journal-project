@@ -12,6 +12,9 @@ A lot of learning was had today. I kept a log at https://github.com/SPdowns/Case
 
 This application is intended to *not only* help you become a better journaler, but it is also intended to help you practice mindfullness in a positive, creative space while cultivating a habit ritual that can carry into every part of a developing workflow.
 
+### Capstone Proposal
+The link for my Capstone Proposal is https://drive.google.com/file/d/1_aNFj352-MQWC1UdX5tpkXVArf_p9LUv/view?usp=sharing
+
 ### Specification
 
 These are a prelim list of large goals I can break down further once I read and watch more material.
